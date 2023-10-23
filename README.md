@@ -50,8 +50,8 @@ $ galgen build --open path/to/holidays
 ```
 
 - One or more directories with the pictures are required.
-- Define content of your gallery in gengal-config.yml
-- Customize layout in index.html.j2
+- Define content of your gallery in `gengal-config.yml`
+- Customize layout in `index.html.j2`
 
 Rebuild your gallery whenever pictures are added/removed or other changes applied.
 ```sh
