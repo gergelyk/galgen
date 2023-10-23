@@ -13,7 +13,7 @@ def build_action(path, force, show):
 
     def list_images(path):
         thumbnails_path = path / 'thumbnails'
-        if not thumbnails_path.exists:
+        if not thumbnails_path.exists():
             thumbnails_path = path
             
         images = [dict(image=f, thumb=thumbnails_path / f.name )
