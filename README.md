@@ -1,6 +1,6 @@
 # GalGen
 
-Simple gallery generator.
+Simple gallery generator. Based on [galleriajs](https://galleriajs.github.io/).
 
 ![](https://raw.githubusercontent.com/gergelyk/galgen/master/example/result.png)
 
