@@ -2,6 +2,8 @@
 
 Simple gallery generator.
 
+![](https://raw.githubusercontent.com/gergelyk/galgen/master/example/result.png)
+
 ## Features
 
 - Simple
