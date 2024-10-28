@@ -1,4 +1,7 @@
 # GalGen
+![PyPI - Version](https://img.shields.io/pypi/v/galgen)
+![PyPI - License](https://img.shields.io/pypi/l/galgen)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/galgen)
 
 Simple gallery generator. Based on [galleriajs](https://galleriajs.github.io/).
 
